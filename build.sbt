@@ -1,4 +1,4 @@
-name := "starting_point"
+name := "Lift_restful_sample"
 
 scalaVersion := "2.9.1"
 
