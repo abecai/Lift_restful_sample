@@ -1,0 +1,12 @@
+Clone from DPP's simply Lift samples about Restful；(Update to SBT 0.11.0)(https://github.com/dpp/simply_lift)
+
+UPDATE and Include:
+
+Lift Version	= "2.4-M4"
+SBT Version 	= "0.11.0"
+scala Version 	= "2.9.1"
+Jetty Version 	= "8.0.2.v20111006"
+
+Run this application by:
+$ sbt
+  > container:start
